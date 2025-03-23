@@ -2,12 +2,8 @@
 	"type": "minecraft:crafting_shapeless",
 	"category": "misc",
 	"ingredients": [
-		{
-			"item": "minecraft:blaze_powder"
-		},
-		{
-			"item": "minecraft:enchanted_book"
-		}
+		"minecraft:blaze_powder",
+		"minecraft:enchanted_book"
 	],
 	"result": {
 		"id": "minecraft:written_book",
